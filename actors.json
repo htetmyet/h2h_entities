@@ -1,0 +1,32 @@
+{
+  "actors": [
+    {
+      "id": 1,
+      "name_en": "Ye Aung",
+      "name_mm": "ရဲအောင်",
+      "group": "mm",
+      "profile_pic": "https://www.popularmyanmar.com/wp-content/uploads/2018/06/Ye-Aung.jpg"
+    },
+    {
+      "id": 2,
+      "name_en": "Kyaw Ye Aung",
+      "name_mm": "ကျော်ရဲအောင်",
+      "group": "mm",
+      "profile_pic": "https://1.bp.blogspot.com/-Yj15XE6tYsU/X03eC0VgyfI/AAAAAAAAf1U/VOgfz_zJJ6YlWOetrklB4fXXSsO-ufgdQCNcBGAsYHQ/s2048/IMG_0361%2Bcopy.jpg"
+    },
+    {
+      "id": 3,
+      "name_en": "Khant Si Thu",
+      "name_mm": "ခန့်စည်သူ",
+      "group": "mm",
+      "profile_pic": "https://nainglinn.com/wp-content/uploads/2021/06/tyuy-1.jpg"
+    },
+    {
+      "id": 4,
+      "name_en": "Leonardo DiCapi",
+      "name_mm": "မိက်ခဇာဂျော်",
+      "group": "glb",
+      "profile_pic": "https://phantom-marca.unidadeditorial.es/89ca58c034bdd768cd36d800cb3e3a73/resize/1320/f/webp/assets/multimedia/imagenes/2023/07/04/16884982838657.jpg"
+    }
+  ]
+}
